@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=fltt-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=flat-square&color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -85,7 +85,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 *Self-hosted open-source repositories sorted in descending order of GitHub stargazers count.*
 
-### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 > **The modern open-source CRM alternative to Salesforce & HubSpot, designed for AI-driven revenue enablement.**
 - 💻 **Tech Stack:** TypeScript, React, NestJS, GraphQL, PostgreSQL
 - 📜 **License:** AGPL-3.0
@@ -94,7 +94,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 2. [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
+### 2. [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
 > **Community-supported open-source document management system (DMS) with automated indexing and OCR.**
 - 💻 **Tech Stack:** Python, Django, Angular, Tesseract OCR, Redis, PostgreSQL
 - 📜 **License:** GPL-3.0
@@ -103,7 +103,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 3. [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
+### 3. [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
 > **Open-source digital signature and document workflow engine (DocuSign & PandaDoc e-sign alternative).**
 - 💻 **Tech Stack:** Ruby on Rails, Stimulus, PostgreSQL
 - 📜 **License:** AGPL-3.0 / Commercial
@@ -112,7 +112,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
 > **Modern, clean open-source digital document signing infrastructure.**
 - 💻 **Tech Stack:** TypeScript, Next.js, Prisma, Tailwind CSS, PostgreSQL
 - 📜 **License:** AGPL-3.0
@@ -121,7 +121,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 5. [Papermark](https://github.com/papermark/papermark) [![GitHub Stars](https://img.shields.io/github/stars/papermark/papermark?style=social&color=white)](https://github.com/papermark/papermark/stargazers)
+### 5. [Papermark](https://github.com/papermark/papermark) [![GitHub_Stars](https://img.shields.io/github/stars/papermark/papermark?style=social&color=white)](https://github.com/papermark/papermark/stargazers)
 > **The premier open-source DocSend alternative featuring page-level telemetry and virtual data rooms (VDR).**
 - 💻 **Tech Stack:** Next.js 14, TypeScript, Prisma, Tailwind CSS, PostgreSQL
 - 📜 **License:** AGPL-3.0
@@ -134,7 +134,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 6. [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
+### 6. [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub_Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
 > **Free and open-source document signing solution for teams and enterprises.**
 - 💻 **Tech Stack:** Node.js, Express, React, MongoDB
 - 📜 **License:** AGPL-3.0
@@ -143,7 +143,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 7. [Docbase](https://github.com/alanagoyal/docbase) [![GitHub Stars](https://img.shields.io/github/stars/alanagoyal/docbase?style=social&color=white)](https://github.com/alanagoyal/docbase/stargazers)
+### 7. [Docbase](https://github.com/alanagoyal/docbase) [![GitHub_Stars](https://img.shields.io/github/stars/alanagoyal/docbase?style=social&color=white)](https://github.com/alanagoyal/docbase/stargazers)
 > **Lightweight, developer-friendly open-source DocSend alternative tailored for pitch deck sharing.**
 - 💻 **Tech Stack:** TypeScript, Next.js, Vercel, Supabase
 - 📜 **License:** MIT
@@ -152,7 +152,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 8. [Hashdocs](https://github.com/hashdocs/hashdocs) [![GitHub Stars](https://img.shields.io/github/stars/hashdocs/hashdocs?style=social&color=white)](https://github.com/hashdocs/hashdocs/stargazers)
+### 8. [Hashdocs](https://github.com/hashdocs/hashdocs) [![GitHub_Stars](https://img.shields.io/github/stars/hashdocs/hashdocs?style=social&color=white)](https://github.com/hashdocs/hashdocs/stargazers)
 > **Open-source secure document sharing and tracking platform with advanced link governance.**
 - 💻 **Tech Stack:** TypeScript, Next.js, Node.js, PostgreSQL
 - 📜 **License:** Apache-2.0
@@ -161,7 +161,7 @@ The sector displays a **bifurcated, moderately fragmented market structure**:
 
 ---
 
-### 9. [Proponent](https://github.com/pkmohite/Proponent) [![GitHub Stars](https://img.shields.io/github/stars/pkmohite/Proponent?style=social&color=white)](https://github.com/pkmohite/Proponent/stargazers)
+### 9. [Proponent](https://github.com/pkmohite/Proponent) [![GitHub_Stars](https://img.shields.io/github/stars/pkmohite/Proponent?style=social&color=white)](https://github.com/pkmohite/Proponent/stargazers)
 > **NLU-powered open-source sales enablement and prospect messaging assistant.**
 - 💻 **Tech Stack:** Python, Streamlit, OpenAI API
 - 📜 **License:** MIT
@@ -194,7 +194,7 @@ We welcome additions, corrections, and updates from the community!
 3. 📝 **Add or edit entries in `README.md`**:
    - Maintain alphabetical or logical ordering.
    - For SaaS products, include verifiable starting prices and explicit free tier/trial limits.
-   - For open-source repos, link repo stars badge with `style=social&color=white` and stargazers link.
+   - For open-source repos, link repo Stars_Badge with `style=social&color=white` and stargazers link.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to open-source list"`).
 5. 📤 **Push to your branch** (`git push origin feat/add-awesome-tool`).
 6. 🔀 **Open a Pull Request** with a concise description of why the tool belongs in this list.
