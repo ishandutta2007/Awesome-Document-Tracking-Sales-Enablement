@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Sales & Revenue Enablement Platform market is valued at approximately **$3.5B–$4.5B** (projected to reach $7B+ by 2028 at an ~18% CAGR). The market is **moderately fragmented across tiers**: while upper-enterprise enablement exhibits high consolidation around a few dominant category leaders (Highspot, Seismic, Showpad), the lower-to-mid market remains competitive and fragmented across specialized point solutions for proposal generation, digital sales rooms, and document tracking (DocSend, PandaDoc, Qwilr, GetAccept).
 
 ## SaaS/Hosted Platforms
 
-
-
-- **DocSend**
-
-  **Document tracking and deal rooms** with page-level analytics. **Pricing**: **Personal $10/user/month** (document-level analytics, 4 e-signatures/month); **Standard $45/user/month** (unlimited e-signatures, video analytics, custom branding); **Advanced $150/month** (3 users, basic data rooms, advanced security); **Advanced Data Rooms $180/month** (enhanced data rooms, group visitor permissions, diligence tracking, audit logs) . **Free tier**: None; trial available. **Best for**: teams needing granular page-level engagement data and secure deal rooms—**trade-off**: per-user pricing scales with team size; data rooms require higher tiers.
-
-
-
-- **PandaDoc**
-
-  **Document lifecycle platform** with proposals, tracking, and e-signature. **Pricing**: **Free $0** (5 documents/month, real-time tracking); **Starter $19/seat/month** (unlimited uploads and e-signatures); **Business $49/seat/month** (CRM integrations, deal rooms, custom branding); **Enterprise** quote-only . **Free tier**: Yes, 5 documents/month. **Best for**: teams wanting authoring, pricing, tracking, and signature in one platform—**trade-off**: CRM integrations and deal rooms require Business tier.
-
-
-
-- **HubSpot Document Tracking**
-
-  **Document sharing within HubSpot CRM**. **Pricing**: Free tools support first five account documents; more requires eligible assigned seat. **Free tier**: Yes, limited. **Best for**: HubSpot users valuing CRM context over page-level detail—**trade-off**: no time-per-page analytics; links are public, not for confidential sharing .
-
-
-
-- **Highspot**
-
-  **Sales enablement platform** with content management and analytics. **Pricing**: **Quote-only**; **50+ user minimum** before volume pricing; **setup fees $15,000–$45,000+**; onboarding **$10,000–$50,000+** . **Free tier**: None. **Best for**: enterprises wanting content governance plus sales training—**trade-off**: high entry floor; no public pricing; setup fees stacked on subscription .
-
-
-
-- **Showpad**
-
-  **Sales enablement** with content and coaching. **Pricing**: **Quote-only**; onboarding **$8,000–$40,000+** (lower than Highspot); AI features move to Advanced/Expert tiers in 2026 packaging changes . **Free tier**: None. **Best for**: mid-market teams wanting enablement with lower onboarding than Highspot—**trade-off**: AI capabilities require higher tiers; pricing opacity.
-
-
-
-- **Seismic**
-
-  **Enterprise enablement cloud** with content and training. **Pricing**: **Quote-only**; Microsoft Marketplace listing shows no public price . **Free tier**: None. **Best for**: large enterprises needing unified enablement—**trade-off**: higher onboarding costs than Highspot per Vendr data; enterprise-only.
-
-
-
-- **Proposify**
-
-  **Proposal software** with templates and tracking. **Pricing**: **Basic, Team, Business** plans; **$9/user/month** entry for some integrations; unlimited templates on all plans . **Free tier**: Trial available. **Best for**: teams wanting proposal-specific workflows—**trade-off**: narrower than full sales enablement.
-
-
-
-- **GetAccept**
-
-  **Digital sales room** with e-signature and engagement. **Pricing**: **eSign $25/user/month** (unlimited signatures, simple branding); **Professional $49/user/month** (5-user minimum, AI usage limits, meetings, teams); **Enterprise** quote-only (CPQ, SSO, Salesforce) . **Free tier**: None. **Best for**: teams wanting sales rooms with e-signature—**trade-off**: Professional requires 5-user minimum; annual billing for Professional/Enterprise.
-
-
-
-- **Qwilr**
-
-  **Proposal and sales document platform** with interactive pages. **Pricing**: **Starter $35/user/month** (annual, 1-seat minimum); **Growth $55/user/month** (5-seat minimum); **Scale $75/user/month** (10-seat minimum, Salesforce, AI proposals) . **Free tier**: None. **Best for**: teams wanting interactive, web-based proposals—**trade-off**: seat minimums increase with tier.
-
-
-
-- **Paperflite**
-
-  **Content management for sales** with analytics. **Pricing**: **Starter $30/user/month** (content hub, AI discovery, analytics); **Professional $50/user/month** (CRM/email integrations, secure distribution, white labeling); **Advanced $60/user/month** (deal rooms, predictive insights); **Enterprise** quote-only . **Free tier**: None. **Best for**: teams wanting content organization plus engagement analytics—**trade-off**: deal rooms require Advanced tier.
-
-
+| Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Key Features & Focus | Best For & Trade-offs |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **HubSpot Document Tracking** | **$21.0B+ Market Cap** (~$3.1B ARR) | **$15/seat/month** (Sales Hub Starter, billed annually) | **Free Forever plan**: Limited to 5 uploaded account documents shared across 2 free CRM seats | Document sharing, open notifications, link access controls, CRM activity timeline logging | **Best for:** Existing HubSpot CRM users valuing CRM context over page-level detail.<br>**Trade-off:** No time-per-page analytics; public links not suited for high-stakes confidential deal rooms. |
+| **Highspot** | **$3.5B Valuation** (~$250M–$450M ARR) | **~$45–$65/user/month** (Quote-only; min. ~$50k/yr annual contract + $15k–$45k onboarding) | **Demo only** (No public self-serve trial; enterprise sales pilot/PoC on request) | Content governance, sales playbooks, buyer engagement analytics, AI training & coaching | **Best for:** Enterprise GTM teams wanting content governance plus sales training.<br>**Trade-off:** High entry floor (50+ user minimums, hefty setup fees). |
+| **Seismic** | **$3.0B Valuation** (~$400M ARR) | **~$40–$75/user/month** (Quote-only; min. ~$30k–$45k/yr contract + $10k+ onboarding) | **Demo only** (No public self-serve trial; enterprise sales pilot/PoC on request) | Enterprise enablement cloud, content automation, digital sales rooms, training & readiness | **Best for:** Large enterprise organizations needing unified enablement and compliance.<br>**Trade-off:** Enterprise-only pricing floor; long procurement and implementation cycles. |
+| **DocSend** *(Dropbox)* | **$165M Acquisition Valuation** (Dropbox: ~$8B Market Cap, DocSend ~$20M+ ARR) | **$10/user/month** (Personal plan, billed annually) | **14-day free trial** (Full access to advanced tracking and data room features; no free forever plan) | Page-level engagement analytics, secure document links, NDA signing, basic/advanced virtual data rooms | **Best for:** Teams needing granular page-level engagement data and secure deal rooms.<br>**Trade-off:** Per-user costs scale rapidly; advanced deal rooms require $150–$180/mo tiers. |
+| **PandaDoc** | **$1.0B Valuation** (~$100M+ ARR) | **$19/seat/month** (Starter plan, billed annually) | **Free Forever plan**: 5 documents/month, e-signatures, payment collection, and real-time tracking | Document lifecycle management, proposal templates, quote generation, native e-signatures | **Best for:** Teams wanting authoring, pricing tables, tracking, and signing in one unified platform.<br>**Trade-off:** CRM integrations and digital sales rooms require the Business tier ($49/seat/mo). |
+| **Showpad** | **$1.0B Valuation** (~$100M–$145M ARR) | **~$30–$37/user/month** (Quote-only baseline; annual commitment + $8k–$40k onboarding) | **Demo only** (No public self-serve trial; guided product demo on request) | Content hub, digital sales rooms, seller coaching/readiness, AI content governance | **Best for:** Mid-market to enterprise teams wanting enablement with lower onboarding costs than Highspot.<br>**Trade-off:** AI and coaching features gated to higher Advanced/Expert tiers. |
+| **GetAccept** | **~$100M Valuation Est.** ($30M+ raised, ~$15M–$18M ARR) | **$25/user/month** (eSign plan, billed annually) | **14-day free trial** (Access to digital sales room and document tracking features) | Digital sales rooms, video messaging, proposal tracking, contract execution, e-signatures | **Best for:** Teams wanting interactive buyer deal rooms with integrated video and e-sign.<br>**Trade-off:** Professional plan requires a 5-user minimum ($245/mo entry floor). |
+| **Paperflite** | **~$50M–$75M Valuation Est.** (~$15M ARR) | **$30/user/month** (Starter plan, billed annually) | **14-day free trial** (Access to content hub and audience engagement tracking) | Content management, engagement analytics, AI discovery, customized digital deal rooms | **Best for:** Content-heavy sales and marketing teams wanting asset engagement analytics.<br>**Trade-off:** Deal rooms and predictive insights require the Advanced tier ($60/user/mo). |
+| **Qwilr** | **~$50M–$70M Valuation Est.** ($8.9M raised, ~$13M–$18M ARR) | **$35/user/month** (Starter plan, billed annually) | **14-day free trial** (Full creation and tracking of interactive web proposals) | Interactive web-based proposals, dynamic quote blocks, page view & section analytics, e-signature | **Best for:** Teams wanting modern web-based proposals replacing static PDF quotes.<br>**Trade-off:** Higher seat minimums on upper tiers (Growth requires 5 seats, Scale requires 10 seats). |
+| **Proposify** | **~$40M–$60M Valuation Est.** ($13M raised, ~$8M–$10M ARR) | **$9/user/month** (Basic/integrations entry tier, up to $35/user/mo) | **14-day free trial** (Full access to proposal templates, metrics, and tracking; no credit card required) | Proposal template builder, document tracking, interactive pricing, e-signatures | **Best for:** Agencies and sales teams focused specifically on proposal creation and win-rate metrics.<br>**Trade-off:** Focused on proposals; narrower than complete revenue enablement suites. |
 
 ## Open-Source GitHub Projects
 
