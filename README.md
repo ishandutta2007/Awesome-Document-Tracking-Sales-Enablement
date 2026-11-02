@@ -1,48 +1,70 @@
-# Awesome-Document-Tracking-Sales-Enablement
+# <div align="center">📄 Awesome Document Tracking & Sales Enablement 🚀</div>
 
-# Awesome-Document-Tracking-Sales-Enablement
+<div align="center">
 
-**Top Document Tracking Sales Enablement (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=fltt-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=social&color=white" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement?style=flat-square&color=blue" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Tracking-Sales-Enablement/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+</div>
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Document Tracking and Sales Enablement Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <strong>Curated directory of top Open-Source tools & enterprise SaaS platforms for Document Tracking, Digital Sales Rooms (DSR), E-Signature workflows, and Modern Revenue Enablement.</strong>
+</p>
 
-*Focused on Page-Level Analytics, Deal Rooms, Proposal Workflows & Self-Hosted Document Tracking*
+<p align="center">
+  <em>Discover self-hosted DocSend alternatives, page-level buyer analytics, dynamic proposal engines, and deal room security architectures.</em>
+</p>
 
-**Last updated: November 2026**
+---
 
+## 📑 Table of Contents
 
+- [🌟 Overview](#-overview)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Architectural Guide & Buyer Criteria](#-architectural-guide--buyer-criteria)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Document Tracking & Sales Enablement**. These tools enable sales teams to share documents, track engagement, and understand buyer behavior—from fully managed platforms with page-level analytics and e-signature to open-source alternatives that give organizations control over their document analytics and access.
+---
 
+## 🌟 Overview
 
+In high-velocity B2B sales, revenue operations, and venture capital, **buyer engagement telemetry** determines deal velocity. Sharing static PDF attachments blinds sales teams to reader interest. **Document tracking platforms** and **modern sales enablement suites** bridge this gap by offering:
 
-**Examples** include DocSend, PandaDoc, HubSpot Document Tracking, Highspot, Showpad, Seismic, Proposify, GetAccept, Qwilr, and Paperflite (the category leaders in commercial space).
+- ⏱️ **Page-Level Analytics**: Millisecond-accurate telemetry revealing which slides prospects scrutinize and where drop-off occurs.
+- 🔒 **Secure Digital Sales Rooms (DSR)**: Watermarked, gated spaces protected by email verification, domain whitelists, password gates, and NDA click-wraps.
+- ✍️ **Integrated Proposal & E-Sign Workflows**: Unified engines merging CPQ pricing tables, interactive calculators, and legal signature capture.
+- 🛡️ **Self-Hosted Privacy**: Open-source stacks providing full ownership of sensitive pitch decks, M&A due diligence documents, and enterprise contracts.
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted document tracking, proposal generation, and open sales enablement infrastructure. **Critical note**: The open-source landscape is sparse—**Papermark** is the only purpose-built open-source document tracking tool with page-level analytics and link controls , while **Nexus CRM** is a portfolio project with basic document linking . No open-source project matches DocSend's deal room depth or PandaDoc's proposal-to-signature workflow, but for basic tracking needs, Papermark is production-capable.
+The global Sales & Revenue Enablement Platform market is valued at approximately **$3.5B–$4.5B** (projected to exceed **$7.0B+** by 2028 growing at an ~18% CAGR). 
 
+The sector displays a **bifurcated, moderately fragmented market structure**:
+- 🏛️ **Enterprise Enablement (High Concentration)**: The high-end enterprise segment exhibits consolidation around a few dominant players (**Highspot**, **Seismic**, **Showpad**), which command substantial annual contracts ($30k–$100k+ floors) through combined content governance, LMS training, and conversation intelligence suites.
+- 🚀 **Specialized Point Solutions & Deal Rooms (High Fragmentation)**: The SMB and mid-market landscape remains fragmented across dedicated tools specializing in page-level tracking (**DocSend**), dynamic web proposals (**PandaDoc**, **Qwilr**, **Proposify**), and interactive digital sales rooms (**GetAccept**, **Paperflite**). Concurrently, privacy-first open-source alternatives like **Papermark** and **DocuSeal** are accelerating self-hosted adoption.
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 🏢 SaaS/Hosted Platforms
 
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Sales & Revenue Enablement Platform market is valued at approximately **$3.5B–$4.5B** (projected to reach $7B+ by 2028 at an ~18% CAGR). The market is **moderately fragmented across tiers**: while upper-enterprise enablement exhibits high consolidation around a few dominant category leaders (Highspot, Seismic, Showpad), the lower-to-mid market remains competitive and fragmented across specialized point solutions for proposal generation, digital sales rooms, and document tracking (DocSend, PandaDoc, Qwilr, GetAccept).
-
-## SaaS/Hosted Platforms
+*Commercial platforms ranked in descending order of company scale (market capitalization / valuation / ARR).*
 
 | Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Key Features & Focus | Best For & Trade-offs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -57,80 +79,148 @@ The global Sales & Revenue Enablement Platform market is valued at approximately
 | **Qwilr** | **~$50M–$70M Valuation Est.** ($8.9M raised, ~$13M–$18M ARR) | **$35/user/month** (Starter plan, billed annually) | **14-day free trial** (Full creation and tracking of interactive web proposals) | Interactive web-based proposals, dynamic quote blocks, page view & section analytics, e-signature | **Best for:** Teams wanting modern web-based proposals replacing static PDF quotes.<br>**Trade-off:** Higher seat minimums on upper tiers (Growth requires 5 seats, Scale requires 10 seats). |
 | **Proposify** | **~$40M–$60M Valuation Est.** ($13M raised, ~$8M–$10M ARR) | **$9/user/month** (Basic/integrations entry tier, up to $35/user/mo) | **14-day free trial** (Full access to proposal templates, metrics, and tracking; no credit card required) | Proposal template builder, document tracking, interactive pricing, e-signatures | **Best for:** Agencies and sales teams focused specifically on proposal creation and win-rate metrics.<br>**Trade-off:** Focused on proposals; narrower than complete revenue enablement suites. |
 
-## Open-Source GitHub Projects
+---
 
+## 🔓 Open-Source GitHub Projects
 
+*Self-hosted open-source repositories sorted in descending order of GitHub stargazers count.*
 
-- **Papermark**
-
-  **Open-source document tracking and sharing platform** (AGPL-3.0) — **the only purpose-built open-source DocSend alternative** found in this research, with page-level analytics and link controls . **Features**: **Page analytics**—see which pages prospects read and how long they spend; **Link controls**—require email or password, set expiration and download permissions; **Verified email** on Business tier; **Allow/block lists**; **Screenshot protection**; **Webhooks**; **Custom document domain**; **AI-agent blocking** (documented in blog, plan availability unverified); **Self-hosted or cloud** . **Pricing**: **Free includes 50 documents, 50 links, unlimited visitors, 20 recent views and 30 days retention**; **Pro** raises to 1,000 recent views and one year retention, adds geographic/device/browser detail; **Business €59/month** yearly for 3 users . **Tech stack**: Per repository (open source). **Deploy**: Self-hosted or Papermark Cloud. **Trade-off**: **Engagement analytics may misattribute email security scanner activity**—test real sends before treating alerts as human activity . **Best for**: teams wanting DocSend-style page analytics without per-user SaaS costs—especially those willing to self-host and verify scanner handling.
-
-
-
-- **Nexus CRM**
-
-  **Portfolio CRM with document linking** (open source) — **a reference implementation for document-CRM integration**, not a tracking tool . **Features**: **Document model** linked to Applications (M:N relationship); **Google OAuth integration** for Gmail refresh tokens; **MCP OAuth tables** for authorization flows; PostgreSQL/Prisma backend . **Tech stack**: Next.js, Prisma, PostgreSQL, Google OAuth. **Deploy**: Self-hosted. **Trade-off**: **Portfolio project**—no document tracking analytics, no page-level engagement, no sales enablement features. **Best for**: developers wanting a reference for linking documents to CRM records—not for sales tracking.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **No mature open-source sales enablement platform exists.** Highspot, Showpad, Seismic, Proposify, GetAccept, Qwilr, and Paperflite are all proprietary. **Papermark** provides document tracking but not sales enablement (content management, training, coaching). **For full sales enablement, commercial platforms are required.**
-
-
-
-**Frameworks for building custom systems**: **Papermark** is the only functional open-source starting point for document tracking. For sales enablement, no open-source alternative exists—commercial platforms or custom development are required.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Document tracking platforms handling buyer data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for confidential documents.
-
-- **The "document tracker" vs. "proposal platform" vs. "sales enablement" distinction is critical.** **DocSend, Papermark, and HubSpot Documents** are **document trackers**—they share files and measure engagement . **PandaDoc, Proposify, GetAccept, and Qwilr** are **proposal platforms**—they author, track, and sign proposals . **Highspot, Showpad, Seismic, and Paperflite** are **sales enablement**—they manage content libraries, training, and coaching alongside analytics . **Choose based on whether you need to track existing files, build proposals, or enable a sales team.**
-
-- **Papermark is the only open-source document tracker**—50 documents and 50 links free, page analytics with 30-day retention . **The trade-off**: scanner activity may inflate engagement metrics; test before trusting alerts.
-
-- **Highspot's entry floor is brutal.** 50+ user minimum, **$15,000–$45,000 setup fees**, and no public pricing make it inaccessible for mid-market teams . **Showpad's onboarding is lower ($8,000–$40,000)** but AI features move to higher tiers in 2026 .
-
-- **PandaDoc's free tier is genuinely usable**—5 documents/month with real-time tracking—and **Starter at $19/seat/month** adds unlimited e-signatures . **Business at $49/seat/month** is required for CRM integrations and deal rooms.
-
-- **GetAccept's Professional tier requires 5 users minimum** at **$49/user/month**—a $245/month floor for small teams . **Qwilr's Growth tier requires 5 seats** at **$55/user/month**; **Scale requires 10 seats** at **$75/user/month** .
-
-- **DocSend's Advanced tier at $150/month** includes 3 users and basic data rooms; **Advanced Data Rooms at $180/month** adds diligence tracking and audit logs . **Per-user pricing below Advanced makes small team costs predictable.**
-
-- Self-hosted open-source solutions require proper infrastructure, security hardening, and ongoing maintenance. **Document tracking handles confidential sales materials**—ensure your deployment meets your organization's security requirements before sharing sensitive documents.
-
-
+### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+> **The modern open-source CRM alternative to Salesforce & HubSpot, designed for AI-driven revenue enablement.**
+- 💻 **Tech Stack:** TypeScript, React, NestJS, GraphQL, PostgreSQL
+- 📜 **License:** AGPL-3.0
+- 🚀 **Key Capabilities:** Flexible relational data model linking leads, opportunities, and sales collateral; custom object pipelines; native activity logging and note tracking.
+- 🎯 **Best For:** Sales teams desiring full data sovereignty over CRM workflows with complete API extensibility.
 
 ---
 
+### 2. [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
+> **Community-supported open-source document management system (DMS) with automated indexing and OCR.**
+- 💻 **Tech Stack:** Python, Django, Angular, Tesseract OCR, Redis, PostgreSQL
+- 📜 **License:** GPL-3.0
+- 🚀 **Key Capabilities:** Automated document ingestion, full-text OCR indexing, machine-learning powered tagging, metadata matching, and audit-ready document archiving.
+- 🎯 **Best For:** Archiving, managing, and categorizing collateral, contracts, and inbound customer agreements.
 
+---
 
-**Made for sales teams, revenue operations, and organizations building transparent document tracking solutions.**
+### 3. [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
+> **Open-source digital signature and document workflow engine (DocuSign & PandaDoc e-sign alternative).**
+- 💻 **Tech Stack:** Ruby on Rails, Stimulus, PostgreSQL
+- 📜 **License:** AGPL-3.0 / Commercial
+- 🚀 **Key Capabilities:** PDF document field authoring, visual drag-and-drop form builder, automated email reminders, mobile-friendly signing, and cryptographic audit trails.
+- 🎯 **Best For:** Teams building embedded contract signing and proposal execution pipelines without recurring per-signature fees.
 
-Let's make Document Tracking & Sales Enablement more open, data-driven, and buyer-aware.
+---
+
+### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+> **Modern, clean open-source digital document signing infrastructure.**
+- 💻 **Tech Stack:** TypeScript, Next.js, Prisma, Tailwind CSS, PostgreSQL
+- 📜 **License:** AGPL-3.0
+- 🚀 **Key Capabilities:** Public/private document signing, webhook integrations, team workspace management, custom branding, and developer-friendly REST/GraphQL APIs.
+- 🎯 **Best For:** Developers embedding compliant document signing workflows directly into web applications.
+
+---
+
+### 5. [Papermark](https://github.com/papermark/papermark) [![GitHub Stars](https://img.shields.io/github/stars/papermark/papermark?style=social&color=white)](https://github.com/papermark/papermark/stargazers)
+> **The premier open-source DocSend alternative featuring page-level telemetry and virtual data rooms (VDR).**
+- 💻 **Tech Stack:** Next.js 14, TypeScript, Prisma, Tailwind CSS, PostgreSQL
+- 📜 **License:** AGPL-3.0
+- 🚀 **Key Capabilities:** 
+  - **Granular Page Analytics**: Precise duration tracking per slide/page, view counts, and reader completion heatmaps.
+  - **Link Security**: Gated links with mandatory email capture, password protection, expiration dates, and download restrictions.
+  - **Deal Rooms**: Branded virtual data rooms for diligence, multi-document collections, and custom domain mapping (`docs.yourbrand.com`).
+  - **Security Safeguards**: Watermarking, allow/block domain lists, and AI crawler blocking.
+- 🎯 **Best For:** Pitch decks, investor relations, confidential sales proposals, and teams seeking DocSend features with self-hosted data ownership.
+
+---
+
+### 6. [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
+> **Free and open-source document signing solution for teams and enterprises.**
+- 💻 **Tech Stack:** Node.js, Express, React, MongoDB
+- 📜 **License:** AGPL-3.0
+- 🚀 **Key Capabilities:** Secure electronic signatures, audit trails, document templates, signer delegation, and custom SMTP integration.
+- 🎯 **Best For:** Organizations seeking an easy-to-deploy self-hosted e-signature portal.
+
+---
+
+### 7. [Docbase](https://github.com/alanagoyal/docbase) [![GitHub Stars](https://img.shields.io/github/stars/alanagoyal/docbase?style=social&color=white)](https://github.com/alanagoyal/docbase/stargazers)
+> **Lightweight, developer-friendly open-source DocSend alternative tailored for pitch deck sharing.**
+- 💻 **Tech Stack:** TypeScript, Next.js, Vercel, Supabase
+- 📜 **License:** MIT
+- 🚀 **Key Capabilities:** Minimalist PDF sharing, viewer email gating, basic slide duration tracking, and clean viewer UI.
+- 🎯 **Best For:** Founders and developers wanting an uncluttered, zero-bloat deck sharing app.
+
+---
+
+### 8. [Hashdocs](https://github.com/hashdocs/hashdocs) [![GitHub Stars](https://img.shields.io/github/stars/hashdocs/hashdocs?style=social&color=white)](https://github.com/hashdocs/hashdocs/stargazers)
+> **Open-source secure document sharing and tracking platform with advanced link governance.**
+- 💻 **Tech Stack:** TypeScript, Next.js, Node.js, PostgreSQL
+- 📜 **License:** Apache-2.0
+- 🚀 **Key Capabilities:** Dynamic link-level permission revocation, recipient tracking, viewer engagement graphs, and anti-forwarding access gates.
+- 🎯 **Best For:** Security-focused teams requiring open Apache-2.0 licensed document tracking.
+
+---
+
+### 9. [Proponent](https://github.com/pkmohite/Proponent) [![GitHub Stars](https://img.shields.io/github/stars/pkmohite/Proponent?style=social&color=white)](https://github.com/pkmohite/Proponent/stargazers)
+> **NLU-powered open-source sales enablement and prospect messaging assistant.**
+- 💻 **Tech Stack:** Python, Streamlit, OpenAI API
+- 📜 **License:** MIT
+- 🚀 **Key Capabilities:** AI content generation tailored to prospect persona, sales messaging alignment, and customer profile analysis.
+- 🎯 **Best For:** Product-led growth and SDR teams generating targeted outreach collateral.
+
+---
+
+## 💡 Architectural Guide & Buyer Criteria
+
+Selecting the right platform depends on your operational bottlenecks:
+
+1. **Document Trackers vs. Proposal Platforms vs. Enablement Suites**:
+   - 🔍 **Document Trackers** (*DocSend, Papermark, Hashdocs*): Designed to share static files (PDFs, PPTXs) and collect precise telemetry (time spent per slide).
+   - 📝 **Proposal Engines** (*PandaDoc, Qwilr, Proposify, DocuSeal*): Built for collaborative document authoring, CPQ pricing tables, interactive web presentation, and e-signature execution.
+   - 🏢 **Sales Enablement Clouds** (*Highspot, Seismic, Showpad*): Comprehensive enterprise operating systems combining internal content repositories, AI coaching, rep certifications, and external buyer engagement.
+
+2. **Self-Hosted vs. Cloud Trade-offs**:
+   - ⚡ **Email Scanner Inflation**: Automated enterprise email security bots (e.g., Proofpoint, Barracuda) click links and trigger tracking pings. Ensure your tracking platform includes bot/crawler filtering.
+   - 🛡️ **Data Sovereignty**: For M&A transactions, proprietary IP, and healthcare/financial agreements, self-hosted platforms (**Papermark**, **DocuSeal**) ensure confidential materials remain on your private cloud.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome additions, corrections, and updates from the community!
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b feat/add-awesome-tool`).
+3. 📝 **Add or edit entries in `README.md`**:
+   - Maintain alphabetical or logical ordering.
+   - For SaaS products, include verifiable starting prices and explicit free tier/trial limits.
+   - For open-source repos, link repo stars badge with `style=social&color=white` and stargazers link.
+4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to open-source list"`).
+5. 📤 **Push to your branch** (`git push origin feat/add-awesome-tool`).
+6. 🔀 **Open a Pull Request** with a concise description of why the tool belongs in this list.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection helpful for your sales architecture or engineering stack, please consider supporting the project:
+
+- 🌟 **Star this repository** on GitHub to help others discover it!
+- 🍴 **Fork and share** with fellow revenue operations leaders, sales engineers, and developers.
+- ☕ **Buy a coffee & sponsor ongoing maintenance** via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you to all contributors and community sponsors for keeping this resource up-to-date! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Document-Tracking-Sales-Enablement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Document-Tracking-Sales-Enablement&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an independent, **community-curated index** for informational and educational purposes. Mention of specific vendors or products does not constitute a commercial endorsement.
+- All product names, logos, and brands are property of their respective owners.
+- Ensure all customer-facing document tracking complies with applicable data privacy statutes (GDPR, CCPA, SOC2 Type II) before deployment in production workflows.
